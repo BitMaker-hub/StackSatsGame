@@ -1,21 +1,22 @@
-# SEEDER - Sovering seed generator
+# STACKSATS GAME - Fight Gem Shitcoiners
 
-¡Prepárate para cambiar la forma en que obtienes tus semillas! En este repositorio encontrarás lo necesario para poder crearte tu propia SEEDER, un dispositivo que te permite crear tus propias semillas de bitcoin en cuestión de segundos.
+¡He juntado Midjourney, un ESP32 y LNbits para crear STACKSATS! Un juego arcade con temática BTC que puedes jugar desde un ESP32 y en concreto adaptado para un TTGO T-Display. En este vídeo te enseño cómo lo he creado, lo bien que me lo he pasado haciendolo y cómo puedes jugarlo. 
 
 Un nuevo proyecto DIY para bitcoiners y curiosos.
 
-Con la SEEDER podrás ser más soberano y no depender de nadie ni nada para salvaguardar tus fondos. Podrás realizar el proceso **semilla moneda** y **calcular la última palabra de tu semilla sin esfuerzo**, además de exportarla mediante un código QR. 
+Este juego contiene un easter EGG en Satoshis! Sé el primero en jugarlo y en conseguir 2140 puntos y ganarás el premio.
+Anunciaré por redes el día y hora en que subiré el juego al repositorio para que puedas ser el primero en jugarlo.
 
-Todo ello gracias a la genial idea de  @Lunaticoin  y mi trabajo.
+Si te gusta mi trabajo puedes dejar una propina en LN: ⚡ bitmaker@getalby.com ⚡
 
-![image](https://github.com/BitMaker-hub/Seeder/blob/master/Images/Seeder_entry.png)
+![image](https://github.com/BitMaker-hub/Seeder/blob/master/Images/Miniatura.jpg)
 
 ## Requisitos
 - Módulo TTGO T-Display
 - Cable USBC
 
 ## TUTORIAL
-Crea tu propio generador de semillas mediante la herramienta online ESPtool y los archivos binarios que encontrarás en la carpeta bin.
+Puedes cargar el firmware mediante la herramienta online ESPtool y los archivos binarios que encontrarás en la carpeta bin.
 
 1. Consigue un módulo TTGO T-display
 1. Descarga este repositorio
@@ -24,4 +25,4 @@ Crea tu propio generador de semillas mediante la herramienta online ESPtool y lo
 
 Tutorial completo en YouTube:
 
-[![Ver video aquí](https://img.youtube.com/vi/2K7ztWxtyY8/0.jpg)](https://youtu.be/2K7ztWxtyY8)
+[![Ver video aquí](https://img.youtube.com/vi/RpIwKoSdISw/0.jpg)](https://youtu.be/RpIwKoSdISw) 
