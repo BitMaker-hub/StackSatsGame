@@ -9,7 +9,7 @@ Anunciaré por redes el día y hora en que subiré el juego al repositorio para 
 
 Si te gusta mi trabajo puedes dejar una propina en LN: ⚡ bitmaker@getalby.com ⚡
 
-![image](https://github.com/BitMaker-hub/Seeder/blob/master/Images/Miniatura.jpg)
+![image](https://github.com/BitMaker-hub/StackSatsGame/blob/master/Images/Miniatura.jpg)
 
 ## Requisitos
 - Módulo TTGO T-Display
